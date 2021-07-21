@@ -2,7 +2,7 @@ import {useState, useEffect} from 'react'
 
 function Categories () {
 
-    // let [errors, setErrors] = useState(null) 1
+    // let [errors, setErrors] = useState(null)
     let [categories, setCategories] = useState([
         {
             _id : null,
